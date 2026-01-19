@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hello
+
+Nathan Pall Cameron (09-06-2005)
+
+Cybersecurity student @ University of West Florida 
 
 <!--
 **npc6-npc/npc6-npc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
